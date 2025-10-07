@@ -70,5 +70,5 @@ digits_svc_pipeline.run()
 ```
 
 ## Expected Output
-After running the pipeline, you should see output similar to:
+After running the pipeline, you should see output similar to it, on ZenML Dashboard, showing Pipeline's workflow schema:
 !['pipeline-dashboard-image'](src/pipeline-dashboard.png)
